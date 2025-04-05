@@ -2,7 +2,7 @@
 > TeachConnect 的 Discord 服务器：https://discord.gg/s5z94tGbRq
 
 <p align="center">
-  <img width="16%" align="center" src="favicon.png" alt="logo">
+  <img width="16%" align="center" src="TC-img/favicon.png" alt="logo">
 </p>
   <h1 align="center">
   TeachConnect | 师室互联
