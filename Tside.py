@@ -16,7 +16,7 @@ import webbrowser
 
 weekday = datetime.datetime.now().weekday()
 
-html_path = "https://www.github.com/Wakana-0/TeachConnect/releases"
+html_path = "https://www.github.com/pyTeachConnect/TeachConnect/releases"
 
 
 def debug_log(message):
