@@ -1,11 +1,36 @@
-即将推出TeachConncet Online
+> [!NOTE]
+> TeachConnect 的 Discord 服务器：https://discord.gg/s5z94tGbRq
 
-师室互联 | TeachConnect
-食用方法：（暂无）
-食用建议：1.建议在Windows10及以上系统运行
-         2.教师端连接教室端时需要提前获取教室端的IP地址
-         3.仅能实现在同一局域网下进行通信
-         4.端口已固定（11223），如有 *端口冲突 请联系开发者
+<p align="center">
+  <img width="16%" align="center" src="favicon.png" alt="logo">
+</p>
+  <h1 align="center">
+  TeachConnect | 师室互联
+</h1>
 
-*请在使用netstat -aon | findstr "11223"（Windows）确定有其他应用程序占用端口后再联系开发者
-*显示端口冲突可能是因为应用程序被多次打开
+
+<p align="center">
+ 全新教师工具。
+</p>
+
+#### [📦 前往本仓库](https://github.com/pyTeachConnect/TeachConnect)
+
+</div>
+
+## 安装 & 使用
+
+#### 确认系统需求
+首先，确认您的设备是否满足以下需求:
+
+> [!NOTE]
+> **兼容性：** 现支持 Windows 10
+
+| **🖥操作系统** | **🗄运行内存** | **运行环境** |
+| :-----: | :-----: | :------: |
+| **Windows 10** 及以上 | ≥4GB | *无特殊要求* |
+
+若已**满足**，请进行接下来的步骤。
+
+#### 下载 TeachConnect
+您可在此应用 GitHub 仓库中下载最新的 TeachConnect:
+> **关于测试版：** 在测试版中可提前享用最新的功能，但也可能出现预料之外的问题。
