@@ -16,7 +16,7 @@ TeachConnect 的 Discord 服务器：[﻿https://discord.gg/s5z94tGbRq](https://
 >  [!NOTE]
 **兼容性：** 现支持 Windows 10 
 
-| <p>*</p><p>**���操作系统**</p> | <p>*</p><p>**���运行内存**</p> | **运行环境** |
+| **操作系统** | **运行内存** | **运行环境** |
 | ----- | ----- | ----- |
 | <p>**Windows 10**</p><p> 及以上（仅限Windows）</p> | ≥4GB | 仅限Windows |
 ---
